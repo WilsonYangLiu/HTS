@@ -1,0 +1,4 @@
+KPGP-00001_L1_R1.fq.gz
+KPGP-00001_L1_R2.fq.gz
+KPGP-00001_L2_R1.fq.gz
+KPGP-00001_L2_R2.fq.gz

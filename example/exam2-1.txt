@@ -1,0 +1,7 @@
+WGC075467R_combined_R2.fastq.gz
+WGC075468R_combined_R2.fastq.gz
+WGC075469R_combined_R2.fastq.gz
+WGC075470R_combined_R2.fastq.gz
+WGC075471R_combined_R2.fastq.gz
+WGC075472R_combined_R2.fastq.gz
+WGC075473R_combined_R2.fastq.gz
